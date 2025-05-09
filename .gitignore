@@ -1,0 +1,22 @@
+# dependencies
+node_modules/
+
+# environment variables
+.env
+
+# build output
+dist/
+build/
+.next/
+out/
+
+# hardhat artifacts and cache
+artifacts/
+cache/
+
+# system files
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
